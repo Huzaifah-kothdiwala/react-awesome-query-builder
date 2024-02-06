@@ -5,7 +5,7 @@ import {
   MuiConfig,
 } from "@react-awesome-query-builder/mui";
 import { createConfig } from "./config";
-import { ruRU } from "@mui/material/locale";
+import { ruRU } from "@material-ui/core/locale";
 import "@react-awesome-query-builder/mui/css/styles.scss";
 
 const configMixin = {
